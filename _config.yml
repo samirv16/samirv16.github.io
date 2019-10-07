@@ -1,11 +1,11 @@
 # Site settings
 author: edras vallecillo
-title: 
+title: my first cli project
 header-img: img/home-bg.png
 email: samir.vallecillo@outlook.com
 copyright_name: edras vallecillo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  top 10 futbol teams of all time
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  samirv16
