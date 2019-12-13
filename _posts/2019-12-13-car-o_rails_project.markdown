@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CAR-O Rails Project"
-date:       2019-12-13 19:08:56 +0000
+date:       2019-12-13 14:08:57 -0500
 permalink:  car-o_rails_project
 ---
 
