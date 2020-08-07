@@ -1,13 +1,12 @@
 ---
 layout: post
 title:      "Command line Scraper"
-date:       2020-08-07 17:48:05 +0000
+date:       2020-08-07 13:48:06 -0400
 permalink:  command_line_scraper
 ---
 
 
-My first CLI project is composed of the fundamendatl skills i have learned my last three week at flatiron school.
-The concept of my project is simple, scrape a website for the top teams of all time and let the user pick a team to read more about.
+The concept is simple, scrape a website for the top teams of all time and let the user pick a team to read more about.
 
 Finding a website to scrape was a bit of a challenge for me. I wanted to find a website that was not going to be incredibly difficult to scrape as that was not the focus of the project. The focus was OOP ( Object Oriented Programming).
 
